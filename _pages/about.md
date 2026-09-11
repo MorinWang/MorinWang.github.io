@@ -76,13 +76,15 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
  
 **Journal Papers**
 
+[J8] Yuhao Wang, Ha Tsz Lam, Yi Wong, Ziru Liu, Wanyu Wang, **Maolin Wang**, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang, and Xiangyu Zhao. (2026). Multi-Task Deep Recommender Systems: A Survey.  In *ACM Computing Surveys (**Impact Factor: 31.4**) (**JCR-Q1**)*.
+
 [J7] Yupeng Xu\*, Huixun Jia\*, **Maolin Wang\***, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, and Xiaodong Sun. (2025). Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System. In *NPJ Digital Medicine (**Impact Factor: 17.0**) (**JCR-Q1**)*.
 
 [J6]  Tianyi Xu, Tianshuo Wei, Yan Ge, Bo Peng, Yue Li, **Maolin Wang**, Peng Wen, Chao Yang, and Ye Wei. (2025). Sustainable Materials Design with Multi-modal Artificial Intelligence. In *Advanced Science (**Impact Factor: 15.6**) (**JCR-Q1**)*.
 
 [J5] **Maolin Wang\***, Xinjian Zhao\*, Wanyu Wang\*, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao. *Embedding in recommender systems: A survey*. In *ACM Transactions on Information Systems (TOIS) (**Impact Factor: 9.1**) (**CCF-A**) (**JCR-Q1**)*.
 
-[J4]  **Maolin Wang\***, Yingyi Zhang\*, Bowen Yu\*, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*. In *ACM Computing Surveys (**Impact Factor: 31.4**) (**JCR-Q1**)*.
+[J4]  **Maolin Wang\***, Yingyi Zhang\*, Bowen Yu\*, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*. In *ACM Computing Surveys (**Impact Factor: 30.4**) (**JCR-Q1**)*.
 
 [J3] Kai Li, Yupeng Deng, Jingbo Chen, Yu Meng, Zhihao Xi, Junxian Ma, Chenhao Wang, Maolin Wang, and Xiangyu Zhao. (2026). PolyFootNet: Extracting Polygonal Building Footprints in Off-Nadir Remote Sensing Images. In *IEEE Transactions on Geoscience and Remote Sensing (**Impact Factor: 9.4**)  (**CCF-B**) (**JCR-Q1**)*.
 
