@@ -23,6 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
+- *2026.09*:  🎉🎉 Our paper *TRACE: State-Aware Query Processing over Temporal Evidence Graphs for Conversational Data* has been accepted by ICDE 2027. 
 - *2026.08*: 🎉🎉 Our two papers have been accepted by ICDM 2026. I'd especially like to mention my representative work among them: *MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling*. This paper addresses key challenges in scaling ultra-long behavior sequence modeling, multi-interest disentanglement, and multimodal semantic alignment that significantly improve retrieval quality and online user engagement at **Baidu**.
 - *2026.08*: 🎉🎉 I am very honored to receive an invitation from Prof. Kijung to present an invited talk on 'Efficient Model Compression for Practical AI' to his research team at Korea Advanced Institute of Science and Technology (KAIST).
 - *2026.08*:  🎉🎉 Our paper *A Tensor-Based Multilayer Graph Representation Learning* received the **Best Paper Award** at the 1st TensorKDD Workshop (Interplay of Classical Tensor Methods and Foundation Models) co-located with KDD 2026, Jeju, Korea.
@@ -92,6 +93,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 **Conference Papers**
 
 ### 2026
+[C59] **Maolin Wang**, Yu Wang, Zichun Liu, Baiyuan Qiu, Jiguang Shen, Chenbin Zhang, Haoran Yang, and Hao Miao. (2026). TRACE: State-Aware Query Processing over Temporal Evidence Graphs for Conversational Data. In *Proceedings of the 42nd IEEE International Conference on Data Engineering (ICDE 2026)* (**CCF-A**).
 
 [C58] Zhiqi Li, Yichi Zhang, Cunjie He, Ziheng Hua, **Maolin Wang**, and Zenglin Xu. (2026). Decoding Self-Knowledge from Latent Reasoning Models for Selective Prediction and Adaptive Routing. In *Findings of the Association for Computational Linguistics: EMNLP 2026*.
 
