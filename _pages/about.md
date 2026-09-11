@@ -158,7 +158,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C30] Yejing Wang, Shengyu Zhou, Jinyu Lu, Ziwei Liu, Langming Liu, **Maolin Wang**, Wenlin Zhang, Feng Li, Wenbo Su, Pengjie Wang, Jian Xu and Xiangyu Zhao. (2025). NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**). *Deployed in real-world scenarios (https://www.taobao.com/) at Alibaba.*
 
-[C29] Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, **Maolin Wang** †, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, and Xiangyu Zhao. (2026). PromptX: A Cognitive Agent Platform with Long-term Memory. In *the Web Conference 2026 (WWW) Demos Track*. [[GitHub 3.4k⭐](https://github.com/Deepractice/PromptX)].
+[C29] Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, **Maolin Wang** †, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, and Xiangyu Zhao. (2026). PromptX: A Cognitive Agent Platform with Long-term Memory. In *the Web Conference 2026 (WWW) Demos Track*. [[GitHub 3.7k⭐](https://github.com/Deepractice/PromptX)].
 
 [C28] **Maolin Wang**, Bowen Yu, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2026). Renormalization Group Guided Tensor Network Structure Search. In *Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
 
