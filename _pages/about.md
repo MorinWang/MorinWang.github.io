@@ -76,6 +76,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
  
 **Journal Papers**
 
+[J9] Zhirong Liang, Ruxin Jiang, Jiawei Wang, Xiaojun Tan, Shouwen Liu, Maolin Wang, and Kaihang Tao. (2026). Plasma-assisted CH₄/NH₃/H₂ Reaction Varying Thermal NOₓ Formation and Critical Safety Boundary under Different Swirling Intensity. In *Applied Thermal Engineering* (Impact Factor: 6.6) (**JCR-Q1**)*.
+
 [J8] Yuhao Wang, Ha Tsz Lam, Yi Wong, Ziru Liu, Wanyu Wang, **Maolin Wang**, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang, and Xiangyu Zhao. (2026). Multi-Task Deep Recommender Systems: A Survey.  In *ACM Computing Surveys (**Impact Factor: 30.4**) (**JCR-Q1**)*.
 
 [J7] Yupeng Xu\*, Huixun Jia\*, **Maolin Wang\***, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, and Xiaodong Sun. (2025). Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System. In *NPJ Digital Medicine (**Impact Factor: 17.0**) (**JCR-Q1**)*.
